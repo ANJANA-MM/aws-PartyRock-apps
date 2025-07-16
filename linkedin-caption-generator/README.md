@@ -61,6 +61,7 @@ You can also easily create your own AI app using [Amazon PartyRock](https://part
 
 ### ✏️ My Prompt
 
+```
 Build an app to generate personalized LinkedIn captions for users. 
 The app should:
 1. Let users choose the tone of their caption using a dropdown menu:
@@ -99,7 +100,7 @@ If the user's input includes any of the following, do not generate the caption. 
 If any of the above is detected, the app respond with this message:
 "Warning: Your post appears to include content that is not appropriate for LinkedIn. No caption will be generated.
 Reason: brief reason here, e.g., "It contains casual or irrelevant content." "
-
+```
 
 6. **Click “Generate" button**  
    PartyRock will create your app automatically based on your prompt.
