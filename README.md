@@ -4,7 +4,7 @@ A collection of Generative AI apps I built using [Amazon PartyRock](https://part
 
 ## 📌 Projects
 
-- [LinkedIn Caption Generator](https://partyrock.aws/u/anjana96/caRoTWvgp/LinkedInCraft%3A-Professional-Caption-Generator)  
+- [LinkedIn Caption Generator](linkedin-caption-generator)  
   Generate customized LinkedIn captions based on tone and post type.
 
 
